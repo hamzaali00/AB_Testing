@@ -55,5 +55,5 @@ Graphs created using Plotly.
 - Test Campaign
     - Greater conversion rate from items added to cart and purchases made
 
-The Control campaign should be utilized to market multiple products to a large audience.
-The Test campaign should be utilized to market a specific item to a targeted audience.
+- The Control campaign should be utilized to market multiple products to a large audience.
+- The Test campaign should be utilized to market a specific item to a targeted audience.
