@@ -10,6 +10,8 @@ Graphs created using Plotly.
 ![Amount Spent](images/spent.png)
 - Test campaign spent more money
 
+---
+
 #### Searches Received from Both Campaigns
 ![Searches Received](images/searches.png)
 - Test campaign received more searches
