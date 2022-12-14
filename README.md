@@ -2,10 +2,11 @@
 
 ## Purpose
 The purpose of this project was to compare the marketing strategies between two groups using A/B testing.
+Graphs created using Plotly.
 
 ## Results
 
-#### Amount Spent from Both Campaigns
+#### <u>Amount Spent from Both Campaigns</u>
 ![Amount Spent](images/spent.png)
 - Test campaign spent more money
 
