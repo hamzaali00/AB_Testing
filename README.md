@@ -6,7 +6,7 @@ Graphs created using Plotly.
 
 ## Results
 
-#### <u>Amount Spent from Both Campaigns</u>
+#### Amount Spent from Both Campaigns
 ![Amount Spent](images/spent.png)
 - Test campaign spent more money
 
@@ -45,3 +45,15 @@ Graphs created using Plotly.
 #### Added to Cart vs Purchases Made
 ![Added to Cart vs Purchases](images/cart_purchases.png)
 - Test campaign had a higher conversion rate of items added to cart to purchases made
+
+## Conclusion
+
+- Control Campaign
+    - More sales overall
+    - Conversion rate is higher from content viewed to items added to cart
+
+- Test Campaign
+    - Greater conversion rate from items added to cart and purchases made
+
+The Control campaign should be utilized to market multiple products to a large audience.
+The Test campaign should be utilized to market a specific item to a targeted audience.
